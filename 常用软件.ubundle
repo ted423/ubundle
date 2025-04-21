@@ -451,8 +451,10 @@
         "InteractiveInstallation": false,
         "RunAsAdministrator": false,
         "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
+        "InstallationScope": "machine",
+        "CustomParameters": [
+          ""
+        ],
         "PreRelease": false,
         "CustomInstallLocation": "",
         "Version": "",
