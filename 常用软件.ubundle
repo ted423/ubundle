@@ -350,7 +350,7 @@
     },
     {
       "Id": "VideoLAN.VLC",
-      "Name": "VLC media player",
+      "Name": "VLC(Interactive)",
       "Version": "3.0.21",
       "Source": "winget",
       "ManagerName": "Winget",
